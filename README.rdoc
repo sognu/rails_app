@@ -1,5 +1,7 @@
 == README
 
+* A micropost app with custom gravatars similar to Twitter
+
 * To run this app point your browser to:
   https://arcane-plains-1969.herokuapp.com/
 
